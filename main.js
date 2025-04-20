@@ -7,6 +7,7 @@
 // @description  北大论文平台下载工具，请勿传播下载的文件，否则后果自负。
 // @author       xiaotianxt
 // @match        http://162.105.134.201/pdfindex*
+// @match        http://202.204.202.18/pdfindex*
 // @match        https://drm.lib.pku.edu.cn/pdfindex*
 // @match        https://drm-lib-pku-edu-cn-443.webvpn.bjmu.edu.cn/pdfindex*
 // @match        https://wpn.pku.edu.cn/https/*/pdfindex*
